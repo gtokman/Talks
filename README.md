@@ -24,5 +24,5 @@
    * [Zoom](https://lnkd.in/ew9tsCh)
    * [Code](./Code/friends) (Example in AddFriendViewModel and AddFriendViewModelTests) 
 2. SwiftUI Basics
-   * Presenter [@bestgarytokman](https://www.twitter.com/bestgaryever)
+   * Presenter [Gary Tokman](https://www.twitter.com/bestgaryever)
    * [Slides](./Slides/SwiftUI-Basics.pdf) from the Meetup 
